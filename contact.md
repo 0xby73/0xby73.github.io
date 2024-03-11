@@ -1,4 +1,4 @@
-# [Telegram](https://t.me/triptych1337)
+# Telegram
 - https://t.me/triptych1337
 
 # IRC - Nick: Triptych
