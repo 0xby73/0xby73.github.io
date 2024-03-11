@@ -1,8 +1,8 @@
 # [Telegram](https://t.me/triptych1337)
 - https://t.me/triptych1337
 
-# IRC
-# nick: triptych ( on all )
+# IRC - Nick: Triptych
+
 ircd.chat/6697 
 - #tcpdirect
 
