@@ -4,11 +4,11 @@
 # nick: triptych ( on all )
 ircd.chat/6697 - #tcpdirect
 irc.libera.chat/+6697
-- channels
-[###] - most active on this
-#linux
-#debian
-#hackers
+# channels
+- [###] - most active on this
+- #linux
+- #debian
+- #hackers
 
 # Discord
 Username: 0xby73
