@@ -3,7 +3,7 @@
 # IRC
 # nick: triptych ( on all )
 ircd.chat/6697 
-#tcpdirect
+- #tcpdirect
 
 irc.libera.chat/+6697
 - [###] - most active on this - ( theres no brackets around it )
