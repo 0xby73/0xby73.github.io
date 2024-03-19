@@ -4,4 +4,4 @@ my names triptych i like to (try to) hack stuff for fun, mostly websites
 
 # [Contact me](./contact.html)
 
-this website is a wip, nothing is here yet
+
