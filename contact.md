@@ -1,5 +1,5 @@
 # Telegram
-- https://t.me/triptych1337
+- https://t.me/serversiderequestforgery
 
 # IRC - Nick: Triptych
 
