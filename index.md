@@ -1,5 +1,5 @@
 # triptych@r00tk1t
-Web exploiter
+Hacker ( hate using that word ) which primarily focuses on web exploitation but has a wide skillset
 
 # [Contact me](./contact.html)
 
