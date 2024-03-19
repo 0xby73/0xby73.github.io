@@ -1,6 +1,6 @@
 # triptych@r00tk1t
 hi
-my names triptych i like to (try to) hack stuff for fun, mostly websites
+Web exploiter. 
 
 # [Contact me](./contact.html)
 
