@@ -1,6 +1,8 @@
 # Big thanks to mxrder for helping to find this vuln
 
-Suprising that such a huge website filled with a very..... interesting group of people havent found out
+yo yo yo whats up everyone reading.
+
+its pretty suprising that such a huge website filled with a very..... interesting group of people havent found out
 about this yet but thats why im here ( and mxrder ). 
 
 ![image](https://github.com/0xby73/0xby73.github.io/assets/162903509/7e95832b-9769-4903-aaae-7b43100b03e4)
@@ -20,3 +22,8 @@ I know , i know beautiful username. The payload, to our knowledge only works on 
 ![image](https://github.com/0xby73/0xby73.github.io/assets/162903509/23e1b0e0-5f29-49e1-a55b-b4a5eb194698)
 
 hahaha dont mind the image choice but unfortunately this is only client side and dissapears once the page gets refreshed or is viewed by another person , it shows up only as a mere link.
+
+Unfortunately, to our knowledge this is just reflected xss so not to big of a deal BUT we did get an offer of about $500 and mxrder got criminal role.
+
+this is the end of what we know for now but this will be updated accordingly.
+
