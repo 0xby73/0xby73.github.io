@@ -1,6 +1,7 @@
 # Doxbin Reflected-XSS vulnerability
 
 # Big thanks to mxrder for helping to find this vuln
+You can find his discord: .unfriended.227.
 
 yo yo yo whats up everyone reading.
 
