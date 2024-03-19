@@ -1,3 +1,5 @@
+# Doxbin Reflected-XSS vulnerability
+
 # Big thanks to mxrder for helping to find this vuln
 
 yo yo yo whats up everyone reading.
@@ -18,6 +20,8 @@ it was pretty suprising such an exploit was found on it , but oh well it was us 
 ![image](https://github.com/0xby73/0xby73.github.io/assets/162903509/74958698-b2e2-46ee-a6da-40e12a237f76)
 
 I know , i know beautiful username. The payload, to our knowledge only works on profiles as we've tried it on pastes and in the search tab, but was offered as this can be exploited alot further than just a simple alert function.
+The payload is also an <img> payload in which we exploited, which is why we were also able to upload an image 
+to it as we've showed.
 
 ![image](https://github.com/0xby73/0xby73.github.io/assets/162903509/23e1b0e0-5f29-49e1-a55b-b4a5eb194698)
 
