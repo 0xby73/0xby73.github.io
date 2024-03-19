@@ -1,6 +1,5 @@
 # triptych@r00tk1t
-hi
-Web exploiter. 
+Web exploiter
 
 # [Contact me](./contact.html)
 
